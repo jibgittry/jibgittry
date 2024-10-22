@@ -95,7 +95,7 @@ Since end 90s, I have been developing and maintaining applications and tools usi
 </a>
 
 <a href="http://www.github.com/jibgittry" target="_blank" rel="noreferrer">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jibgittry&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub/Commits/Graph" alt="GitHub Commits Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jibgittry&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
 
 <a href="https://github.com/jibgittry" target="_blank" rel="noreferrer" align="left">
